@@ -1,3 +1,8 @@
+# Agents
+.agents/
+.agents
+skills-lock.json
+
 # Logs
 logs
 *.log
